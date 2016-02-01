@@ -14,5 +14,6 @@ public class HelloTest {
 
         //when
         hello.printMessage();
+        System.out.println("hiiiiiiiiiiiiiii");
     }
 }
